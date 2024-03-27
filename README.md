@@ -1,4 +1,4 @@
-![image](https://github.com/Iqmohan/Marketing-Analytics-Customer-s-Latent-Factor-Analysis/assets/159016465/4ba1341a-1254-4b20-992d-2de86a8db873)Marketing-Analytics-Customers-Latent-Factor-Analysis
+Marketing-Analytics-Customers-Latent-Factor-Analysis
 Implemented marketing analytics leveraging Latent Factor Analysis (LFA) to uncover hidden patterns and relationships within customer data. Employing agglomeration techniques and dendogram visualization, we clustered customers based on similar behaviors and attributes. This approach enabled us to segment the customer base effectively, identifying distinct groups with shared characteristics. By understanding these latent factors, we gained insights into customer preferences, enabling targeted marketing strategies and personalized customer experiences.
 Steps Involved :
 step 1 - Load the dataset
